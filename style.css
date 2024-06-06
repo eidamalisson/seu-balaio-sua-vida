@@ -1,0 +1,15 @@
+*{ /*seletor universal para resetar as bordas das paginas*/
+    padding:0px;
+    margin:0px;
+    }
+    :root{/*seletor para variaveis*/
+        --cor-de-fundo:blue;
+    --cor-da-letra:red;
+    }
+    body{/* seletor body*/
+    background-color:var(--cor-de-fundo)
+    }
+
+    
+
+  
